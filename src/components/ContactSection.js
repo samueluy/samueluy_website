@@ -7,7 +7,7 @@ const ContactSection = () => {
         <div className="content">
           {/* title */}
           <div className="title">
-            <div className="title_inner">Contacts Info</div>
+            <div className="title_inner">Contact Info</div>
           </div>
           {/* contacts items */}
           <div className="service-items">
@@ -17,7 +17,7 @@ const ContactSection = () => {
                   <span className="fas fa-phone" />
                 </div>
                 <div className="name">Phone</div>
-                <div className="text">+ (231) 456 67 89</div>
+                <div className="text">+ (63) 956 381 2141</div>
               </div>
             </div>
             <div className="service-col">
@@ -27,8 +27,8 @@ const ContactSection = () => {
                 </div>
                 <div className="name">Email</div>
                 <div className="text">
-                  <a href="mailto:steve-pearson@gmail.com">
-                    steve-pearson@gmail.com
+                  <a href="mailto:contact@samueluy.com">
+                    contact@samueluy.com
                   </a>
                 </div>
               </div>
@@ -39,7 +39,7 @@ const ContactSection = () => {
                   <span className="fas fa-map-marker-alt" />
                 </div>
                 <div className="name">Address</div>
-                <div className="text">2621 W Pico Blvd, Los Angeles</div>
+                <div className="text">Quezon City, Metro Manila</div>
               </div>
             </div>
             <div className="service-col">
@@ -47,8 +47,8 @@ const ContactSection = () => {
                 <div className="icon">
                   <span className="fas fa-user-tie" />
                 </div>
-                <div className="name">Freelance Available</div>
-                <div className="text">I am available for Freelance hire</div>
+                <div className="name">Available</div>
+                <div className="text">Open for collaborations and partnerships</div>
               </div>
             </div>
           </div>
@@ -60,7 +60,7 @@ const ContactSection = () => {
         <div className="content">
           {/* title */}
           <div className="title">
-            <div className="title_inner">Contacts Form</div>
+            <div className="title_inner">Contact Form</div>
           </div>
           {/* form */}
           <div className="contact_form content-box">

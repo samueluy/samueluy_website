@@ -11,27 +11,24 @@ const ResumeSection = () => {
             {/* resume items */}
             <div className="resume-items">
               <div className="resume-item content-box active">
-                <div className="date">2013 - Present</div>
-                <div className="name">Art Director - Facebook Inc.</div>
+                <div className="date">Oct 2023 - Present</div>
+                <div className="name">Data Engineer - Exist Software Labs, Inc.</div>
                 <div className="text">
-                  Collaborate with creative and development teams on the
-                  execution of ideas.
+                Collaborated with clients in energy and bancassurance to improve software solutions and enhance operational efficiency. Developed over 30 Azure pipelines, fixed five Power BI reports, and utilized Microsoft Fabric UI for UI development. Contributed to developing a new service line within the company.
                 </div>
               </div>
               <div className="resume-item content-box">
-                <div className="date">2011 - 2012</div>
-                <div className="name">Front-End Developer - Google Inc.</div>
+                <div className="date">Apr 2023 - Present</div>
+                <div className="name">Co-Founder - Overflow Creatives.</div>
                 <div className="text">
-                  Monitored technical aspects of the front-end delivery for
-                  projects.
+                Expanded the team to four members, secured four recurring clients, and served eight clients in the first year, enhancing operational capacity and establishing strong partnerships.
                 </div>
               </div>
               <div className="resume-item content-box">
                 <div className="date">2009 - 2010</div>
-                <div className="name">Senior Developer - ABC Inc.</div>
+                <div className="name">Content Creator</div>
                 <div className="text">
-                  Optimize your website and apps performance using latest
-                  technology.
+                Grew 175,000 followers as a Computer Science/Finance content creator. Partnered with local and international exchanges, tech companies, and retail brands. Invited as a keynote speaker to discuss Python and Object-Oriented Programming.
                 </div>
               </div>
             </div>
@@ -44,27 +41,21 @@ const ResumeSection = () => {
             {/* resume items */}
             <div className="resume-items">
               <div className="resume-item content-box">
-                <div className="date">2006 - 2008</div>
-                <div className="name">Art University - New York</div>
+                <div className="date">2020 - 2024</div>
+                <div className="name">De La Salle University - Manila</div>
                 <div className="text">
-                  Bachelors Degree in Computer Science ABC Technical Institute,
-                  Jefferson, Missouri.
+                  Bachelors Degree in Computer Science Major in Software Technology<br></br><br></br>
+                  Associate Vice President for Training and Devleopment - La Salle Computer Society<br></br>
+                  Associate Vice President for Publicity and Creatives - La Salle Computer Society
                 </div>
               </div>
               <div className="resume-item content-box">
-                <div className="date">2005 - 2006</div>
-                <div className="name">Programming Course - Paris</div>
+                <div className="date">2018 - 2020</div>
+                <div className="name">Far Eastern University - Diliman</div>
                 <div className="text">
-                  Coursework - Git, WordPress, Javascript, iOS, Android, CSS,
-                  and JavaScript.
-                </div>
-              </div>
-              <div className="resume-item content-box">
-                <div className="date">2004 - 2005</div>
-                <div className="name">Web Design Course - London</div>
-                <div className="text">
-                  Converted Photoshop layouts to web pages using HTML, CSS, and
-                  JavaScript.
+                  STEM<br></br>
+                  President - The Lumière Club<br></br>
+                  Member of FEU Diliman Robotics Team
                 </div>
               </div>
             </div>

@@ -21,147 +21,33 @@ const Menu = () => (
             <li className="menu-item menu-item-has-children">
               <Link href="/">
                 <a>
-                  <span className="mask-lnk">Home</span>
-                  <span className="mask-lnk mask-lnk-hover">Home</span>
+                {/* Removed class name mask-lnk and mask-lnk-hover from span*/}
+                  <span>Home</span>
                 </a>
               </Link>
-              <ul className="sub-menu">
-                <li className="menu-item">
-                  <Link href="/index_creative">
-                    <a>
-                      <span className="mask-lnk">Content Creation</span>
-                      <span className="mask-lnk mask-lnk-hover">
-                        Home Creative
-                      </span>
-                    </a>
-                  </Link>
-                </li>
-                </ul>
             </li>
             <li className="menu-item menu-item-has-children">
-              <Link href="/resume">
                 <a>
                   <span className="mask-lnk">Resume</span>
                   <span className="mask-lnk mask-lnk-hover">Resume</span>
                 </a>
-              </Link>
               <ul className="sub-menu">
                 <li className="menu-item">
-                  <Link href="/resume">
+                  <Link href="/resume_tech">
                     <a>
-                      <span className="mask-lnk">Resume Default</span>
+                      <span className="mask-lnk">Technology</span>
                       <span className="mask-lnk mask-lnk-hover">
-                        Resume Default
+                      Technology
                       </span>
                     </a>
                   </Link>
                 </li>
                 <li className="menu-item">
-                  <Link href="/resume_image">
+                  <Link href="/resume_cc">
                     <a>
-                      <span className="mask-lnk">Resume Image</span>
+                      <span className="mask-lnk">Content Creation</span>
                       <span className="mask-lnk mask-lnk-hover">
-                        Resume Image
-                      </span>
-                    </a>
-                  </Link>
-                </li>
-                <li className="menu-item">
-                  <Link href="/resume_creative">
-                    <a>
-                      <span className="mask-lnk">Resume Creative</span>
-                      <span className="mask-lnk mask-lnk-hover">
-                        Resume Creative
-                      </span>
-                    </a>
-                  </Link>
-                </li>
-              </ul>
-            </li>
-            <li className="menu-item menu-item-has-children">
-              <Link href="/works">
-                <a>
-                  <span className="mask-lnk">Works</span>
-                  <span className="mask-lnk mask-lnk-hover">Works</span>
-                </a>
-              </Link>
-              <ul className="sub-menu">
-                <li className="menu-item">
-                  <Link href="/works">
-                    <a>
-                      <span className="mask-lnk">Works Default</span>
-                      <span className="mask-lnk mask-lnk-hover">
-                        Works Default
-                      </span>
-                    </a>
-                  </Link>
-                </li>
-                <li className="menu-item">
-                  <Link href="/works_creative">
-                    <a>
-                      <span className="mask-lnk">Works Creative</span>
-                      <span className="mask-lnk mask-lnk-hover">
-                        Works Creative
-                      </span>
-                    </a>
-                  </Link>
-                </li>
-                <li className="menu-item">
-                  <Link href="/work_single">
-                    <a>
-                      <span className="mask-lnk">Work Single</span>
-                      <span className="mask-lnk mask-lnk-hover">
-                        Work Single
-                      </span>
-                    </a>
-                  </Link>
-                </li>
-                <li className="menu-item">
-                  <Link href="/work_single_image">
-                    <a>
-                      <span className="mask-lnk">Work Single Image</span>
-                      <span className="mask-lnk mask-lnk-hover">
-                        Work Single Image
-                      </span>
-                    </a>
-                  </Link>
-                </li>
-                <li className="menu-item">
-                  <Link href="/work_single_creative">
-                    <a>
-                      <span className="mask-lnk">Work Single Creative</span>
-                      <span className="mask-lnk mask-lnk-hover">
-                        Work Single Creative
-                      </span>
-                    </a>
-                  </Link>
-                </li>
-              </ul>
-            </li>
-            <li className="menu-item menu-item-has-children">
-              <Link href="/blog">
-                <a>
-                  <span className="mask-lnk">Blog</span>
-                  <span className="mask-lnk mask-lnk-hover">Blog</span>
-                </a>
-              </Link>
-              <ul className="sub-menu">
-                <li className="menu-item">
-                  <Link href="/blog">
-                    <a>
-                      <span className="mask-lnk">Blog Posts</span>
-                      <span className="mask-lnk mask-lnk-hover">
-                        Blog Posts
-                      </span>
-                    </a>
-                  </Link>
-                </li>
-                <li className="menu-item">
-                  <Link href="/blog_post">
-                    <a>
-                      <span className="mask-lnk">Single Post</span>
-                      <span className="mask-lnk mask-lnk-hover">
-                        Single Post
+                      Content Creation
                       </span>
                     </a>
                   </Link>
@@ -171,52 +57,9 @@ const Menu = () => (
             <li className="menu-item menu-item-has-children">
               <Link href="/contacts">
                 <a>
-                  <span className="mask-lnk">Contact</span>
-                  <span className="mask-lnk mask-lnk-hover">Contact</span>
+                  <span>Contact</span>
                 </a>
               </Link>
-              <ul className="sub-menu">
-                <li className="menu-item">
-                  <Link href="/contacts">
-                    <a>
-                      <span className="mask-lnk">Contact Default</span>
-                      <span className="mask-lnk mask-lnk-hover">
-                        Contact Default
-                      </span>
-                    </a>
-                  </Link>
-                </li>
-                <li className="menu-item">
-                  <Link href="/contacts_map">
-                    <a>
-                      <span className="mask-lnk">Contact Map</span>
-                      <span className="mask-lnk mask-lnk-hover">
-                        Contact Map
-                      </span>
-                    </a>
-                  </Link>
-                </li>
-                <li className="menu-item">
-                  <Link href="/contacts_image">
-                    <a>
-                      <span className="mask-lnk">Contact Image</span>
-                      <span className="mask-lnk mask-lnk-hover">
-                        Contact Image
-                      </span>
-                    </a>
-                  </Link>
-                </li>
-                <li className="menu-item">
-                  <Link href="/contacts_creative">
-                    <a>
-                      <span className="mask-lnk">Contact Creative</span>
-                      <span className="mask-lnk mask-lnk-hover">
-                        Contact Creative
-                      </span>
-                    </a>
-                  </Link>
-                </li>
-              </ul>
             </li>
           </ul>
         </div>

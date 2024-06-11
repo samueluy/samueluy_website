@@ -4,7 +4,7 @@ const About = () => {
       <div className="content content-box">
         {/* image */}
         <div className="image">
-          <img src="images/man_r.jpg" alt="" />
+          <img src="images/resume_pic.jpg" alt="" />
         </div>
         {/* desc */}
         <div className="desc">

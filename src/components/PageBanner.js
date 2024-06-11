@@ -163,7 +163,7 @@ export const MapBanner = ({ typingData, extraClass }) => {
       <div className="centrize full-width">
         <div className="vertical-center">
           <div className="started-content">
-            <h1 className="h-title">Contacts</h1>
+            <h1 className="h-title">Contact Me</h1>
             <AnimationText typingData={typingData} extraClass={extraClass} />
           </div>
         </div>
