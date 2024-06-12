@@ -459,7 +459,8 @@ const Menu = ()=>/*#__PURE__*/ (0,jsx_runtime_.jsxs)(external_react_.Fragment, {
             /*#__PURE__*/ jsx_runtime_.jsx("div", {
                 className: "logo hover-masks-logo",
                 children: /*#__PURE__*/ (0,jsx_runtime_.jsxs)("a", {
-                    href: "#",
+                    href: "/documents/Samuel_Uy_Resume_2024.pdf",
+                    download: "Samuel_Uy_Resume_2024.pdf",
                     children: [
                         /*#__PURE__*/ (0,jsx_runtime_.jsxs)("span", {
                             className: "mask-lnk",

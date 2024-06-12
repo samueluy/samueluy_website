@@ -90,8 +90,9 @@ const About = ()=>{
                         /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("div", {
                             className: "bts",
                             children: /*#__PURE__*/ (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)("a", {
-                                href: "#",
+                                href: "/documents/Samuel_Uy_Resume_2024.pdf",
                                 className: "btn hover-animated",
+                                download: "Samuel_Uy_Resume_2024.pdf",
                                 children: [
                                     /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("span", {
                                         className: "circle"

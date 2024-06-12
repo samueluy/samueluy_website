@@ -4,7 +4,7 @@ import { Fragment, useState } from "react";
 const Menu = () => (
   <Fragment>
     <div className="logo hover-masks-logo">
-      <a href="#">
+      <a href="/documents/Samuel_Uy_Resume_2024.pdf" download="Samuel_Uy_Resume_2024.pdf">
         <span className="mask-lnk">
           Samuel <strong>Uy</strong>
         </span>
