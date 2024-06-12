@@ -1,13 +1,8 @@
 import React, { Fragment } from "react";
 import emailjs from "emailjs-com";
-import dotenv from "dotenv";
-dotenv.config();
 
 const ContactSection = () => {
 
-  console.log("Service ID:", process.env.REACT_APP_EMAILJS_SERVICE_ID);
-  console.log("Template ID:", process.env.REACT_APP_EMAILJS_TEMPLATE_ID);
-  console.log("User ID:", process.env.REACT_APP_EMAILJS_USER_ID);
   const sendEmail = (e) => {
     e.preventDefault();
 
