@@ -1,5 +1,32 @@
-import { Fragment } from "react";
+import React, { Fragment } from "react";
+import emailjs from "emailjs-com";
+import dotenv from "dotenv";
+dotenv.config();
+
 const ContactSection = () => {
+
+  console.log("Service ID:", process.env.REACT_APP_EMAILJS_SERVICE_ID);
+  console.log("Template ID:", process.env.REACT_APP_EMAILJS_TEMPLATE_ID);
+  console.log("User ID:", process.env.REACT_APP_EMAILJS_USER_ID);
+  const sendEmail = (e) => {
+    e.preventDefault();
+
+    emailjs.sendForm(
+      process.env.REACT_APP_EMAILJS_SERVICE_ID,
+      process.env.REACT_APP_EMAILJS_TEMPLATE_ID,
+      e.target,
+      process.env.REACT_APP_EMAILJS_USER_ID)
+      .then((result) => {
+          console.log(result.text);
+          alert("Message sent successfully!");
+      }, (error) => {
+          console.log(error.text);
+          alert("Failed to send message. Please try again.");
+      });
+
+    e.target.reset();
+  };
+
   return (
     <Fragment>
       {/* Section Contacts Info */}
@@ -64,19 +91,15 @@ const ContactSection = () => {
           </div>
           {/* form */}
           <div className="contact_form content-box">
-            <form id="cform" method="post">
+            <form id="cform" onSubmit={sendEmail}>
               <div className="group-val">
-                <input type="text" name="name" placeholder="Name" />
+                <input type="text" name="from_name" placeholder="Name" required />
               </div>
               <div className="group-val">
-                <input type="email" name="email" placeholder="Email" />
+                <input type="email" name="from_email" placeholder="Email" required />
               </div>
               <div className="group-val ct-gr">
-                <textarea
-                  name="message"
-                  placeholder="Message"
-                  defaultValue={""}
-                />
+                <textarea name="message" placeholder="Message" required />
               </div>
               <div className="group-bts">
                 <button type="submit" className="btn hover-animated">
@@ -95,4 +118,5 @@ const ContactSection = () => {
     </Fragment>
   );
 };
+
 export default ContactSection;

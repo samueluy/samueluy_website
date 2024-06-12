@@ -1,6 +1,8 @@
 import Head from "next/head";
 import { Fragment } from "react";
 import "../styles/globals.css";
+import dotenv from "dotenv";
+dotenv.config();
 
 function MyApp({ Component, pageProps }) {
   return (

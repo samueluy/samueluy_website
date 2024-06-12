@@ -1,7 +1,9 @@
 import TypingAnimation from "../src/components/TypingAnimation";
 import Layout from "../src/layout/Layout";
+
 const IndexPersonal = () => {
   return (
+    
     <Layout>
       <div className="section started personal" id="section-started">
         {/* background */}

@@ -1,6 +1,9 @@
 import ContactSection from "../src/components/ContactSection";
 import { CreativePageBanner } from "../src/components/PageBanner";
 import Layout from "../src/layout/Layout";
+import dotenv from "dotenv";
+dotenv.config();
+
 const ContactsCreative = () => {
   const typingAnimation = [
     `<span class="typed-bread"> <a href="#">Home</a>  / Contact </span>`,
