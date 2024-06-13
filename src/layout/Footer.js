@@ -8,14 +8,20 @@ const Footer = () => {
       <div className="soc-box">
         <div className="follow-label">Follow Me</div>
         <div className="soc">
-          <a target="_blank" rel="noreferrer" href="https://www.pinterest.com/">
-            <span className="icon fab fa-pinterest" />
+          <a target="_blank" rel="noreferrer" href="https://www.linkedin.com/in/samueluy/">
+            <span className="icon fab fa-linkedin" />
           </a>
-          <a target="_blank" rel="noreferrer" href="https://www.instagram.com/">
+          <a target="_blank" rel="noreferrer" href="https://www.tiktok.com/@samueluyyt/">
+            <span className="icon fab fa-tiktok" />
+          </a>
+          <a target="_blank" rel="noreferrer" href="https://www.facebook.com/samuyyt/">
+            <span className="icon fab fa-facebook" />
+          </a>
+          <a target="_blank" rel="noreferrer" href="https://www.instagram.com/samueluyyt/">
             <span className="icon fab fa-instagram" />
           </a>
-          <a target="_blank" rel="noreferrer" href="https://dribbble.com/">
-            <span className="icon fab fa-dribbble" />
+          <a target="_blank" rel="noreferrer" href="https://www.youtube.com/samueluy">
+            <span className="icon fab fa-youtube" />
           </a>
         </div>
       </div>

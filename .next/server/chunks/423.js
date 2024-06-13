@@ -416,7 +416,7 @@ const Footer = ()=>{
                                 rel: "noreferrer",
                                 href: "https://www.pinterest.com/",
                                 children: /*#__PURE__*/ jsx_runtime_.jsx("span", {
-                                    className: "icon fab fa-pinterest"
+                                    className: "icon fab fa-linkedin"
                                 })
                             }),
                             /*#__PURE__*/ jsx_runtime_.jsx("a", {
@@ -433,6 +433,14 @@ const Footer = ()=>{
                                 href: "https://dribbble.com/",
                                 children: /*#__PURE__*/ jsx_runtime_.jsx("span", {
                                     className: "icon fab fa-dribbble"
+                                })
+                            }),
+                            /*#__PURE__*/ jsx_runtime_.jsx("a", {
+                                target: "_blank",
+                                rel: "noreferrer",
+                                href: "https://www.pinterest.com/",
+                                children: /*#__PURE__*/ jsx_runtime_.jsx("span", {
+                                    className: "icon fab fa-linkedin"
                                 })
                             })
                         ]

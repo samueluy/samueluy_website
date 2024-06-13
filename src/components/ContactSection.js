@@ -7,10 +7,10 @@ const ContactSection = () => {
     e.preventDefault();
 
     emailjs.sendForm(
-      process.env.REACT_APP_EMAILJS_SERVICE_ID,
-      process.env.REACT_APP_EMAILJS_TEMPLATE_ID,
+      process.env.NEXT_PUBLIC_SERVICE_ID,
+      process.env.NEXT_PUBLIC_TEMPLATE_ID,
       e.target,
-      process.env.REACT_APP_EMAILJS_USER_ID)
+      process.env.NEXT_PUBLIC_USER_ID)
       .then((result) => {
           console.log(result.text);
           alert("Message sent successfully!");
