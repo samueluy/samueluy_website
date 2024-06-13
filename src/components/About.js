@@ -34,7 +34,7 @@ My passion for technology began early, evolving into a career of continuous lear
             </ul>
           </div>
           <div className="bts">
-            <a href="#" className="btn hover-animated">
+            <a href="/documents/Samuel_Uy_Resume_2024.pdf" className="btn hover-animated" download="Samuel_Uy_Resume_2024.pdf">
               <span className="circle" />
               <span className="lnk">Download CV</span>
             </a>
