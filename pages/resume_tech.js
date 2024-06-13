@@ -29,22 +29,10 @@ const ResumeCreative = () => {
       <Service />
       {/* Section Resume */}
       <ResumeSection />
-      {/* Section Design Skills */}
-      <DesignSkills />
       {/* Section Languages Skills */}
-      <LanguagesSkills />
-      {/* Section Coding Skills */}
       <CodingSkills />
       {/* Section Knowledge Skills */}
       <KnowledgeSkills />
-      {/* Section Interests */}
-      <Interests />
-      {/* Section Team */}
-      <Team />
-      {/* Section Testimonials */}
-      <Testimonials />
-      {/* Section Clients */}
-      <Clients />
       {/* Section Custom Text */}
       <CustomText />
     </Layout>

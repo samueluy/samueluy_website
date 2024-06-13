@@ -1501,7 +1501,7 @@
   top: 3px;
   display: inline-block;
   color: #4bffa5;
-  font-family: "Font Awesome 5 Free";
+  font-family: "Font Awesome 6 Free";
   font-weight: 900;
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
@@ -3585,7 +3585,7 @@ object {
   content: "\f30b";
   display: inline-block;
   vertical-align: middle;
-  font-family: "Font Awesome 5 Free";
+  font-family: "Font Awesome 6 Brands";
   font-size: 20px;
   line-height: 14px;
   font-weight: 900;
@@ -4281,7 +4281,7 @@ object {
   content: "\f30b";
   display: inline-block;
   vertical-align: middle;
-  font-family: "Font Awesome 5 Free";
+  font-family: "Font Awesome 6 Brands";
   font-size: 20px;
   line-height: 14px;
   font-weight: 900;

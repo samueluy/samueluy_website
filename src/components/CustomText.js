@@ -4,22 +4,23 @@ const CustomText = () => {
       <div className="content">
         {/* title */}
         <div className="title">
-          <div className="title_inner">Custom Text</div>
+          <div className="title_inner">Personal Statement</div>
         </div>
         {/* clients items */}
         <div className="content-box">
           <div className="single-post-text">
             <p>
-              Now there is more fashion. There is no so-called trends. Now chase
-              after anything not necessary — nor for fashionable color nor the
-              shape, nor for style. Think about the content that you want to
-              invest in a created object, and only then will form. The thing is
-              your spirit. A spirit unlike forms hard copy.
+              Driven and resourceful student leader with a track record of
+              leading initiatives and delivering outstanding results in the IT
+              sector. A quick learner and effective communicator, possessing
+              strong time management and problem-solving skills, and adept at
+              navigating high-pressure environments. I am committed to utilizing
+              my analytical abilities to contribute to organizational goals and
+              prepared to meet diverse challenges and acquire new competencies
+              within a dynamic technology landscape.
             </p>
-            <p>
-              Here choose yourself like that, without any looking back, do your
-              personal, home, small fashion, and all will be well.
-            </p>
+            <p>Thank you for reaching the end. You are part of my journey.</p>
+            <p>The LORD is my shepherd, I lack nothing. - Psalm 23:1</p>
           </div>
         </div>
         <div className="clear" />

@@ -117,7 +117,7 @@ export const CodingSkills = () => {
         <div className="skills circles content-box">
           <ul>
             <li>
-              <div className="name">WordPress</div>
+              <div className="name">Python</div>
               <div className="progress p90">
                 {" "}
                 {/* p90 = 90% circle fill color */}
@@ -132,7 +132,7 @@ export const CodingSkills = () => {
               </div>
             </li>
             <li>
-              <div className="name">PHP / MYSQL</div>
+              <div className="name">SQL</div>
               <div className="progress p75">
                 {" "}
                 {/* p75 = 75% circle fill color */}
@@ -147,7 +147,7 @@ export const CodingSkills = () => {
               </div>
             </li>
             <li>
-              <div className="name">Angular / JavaScript</div>
+              <div className="name">DAX</div>
               <div className="progress p85">
                 {" "}
                 {/* p85 = 85% circle fill color */}
@@ -162,7 +162,7 @@ export const CodingSkills = () => {
               </div>
             </li>
             <li>
-              <div className="name">HTML / CSS</div>
+              <div className="name">Java</div>
               <div className="progress p95">
                 {" "}
                 {/* p95 = 95% circle fill color */}
@@ -194,28 +194,31 @@ export const KnowledgeSkills = () => {
         <div className="skills list content-box">
           <ul>
             <li>
-              <div className="name">Website hosting</div>
+              <div className="name">Azure DevOps</div>
             </li>
             <li>
-              <div className="name">iOS and android apps</div>
+              <div className="name">Azure Data Factory</div>
             </li>
             <li>
-              <div className="name">Create logo design</div>
+              <div className="name">Azure Synapse Analytics</div>
             </li>
             <li>
-              <div className="name">Design for print</div>
+              <div className="name">Azure Stream Analytics</div>
             </li>
             <li>
-              <div className="name">Modern and mobile-ready</div>
+              <div className="name">Azure Data Lake Storage</div>
             </li>
             <li>
-              <div className="name">Advertising services include</div>
+              <div className="name">Azure Databricks</div>
             </li>
             <li>
-              <div className="name">Graphics and animations</div>
+              <div className="name">Microsoft Power BI</div>
             </li>
             <li>
-              <div className="name">Search engine marketing</div>
+              <div className="name">SQL</div>
+            </li>
+            <li>
+              <div className="name">Python</div>
             </li>
           </ul>
         </div>
