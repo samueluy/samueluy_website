@@ -414,7 +414,7 @@ const Footer = ()=>{
                             /*#__PURE__*/ jsx_runtime_.jsx("a", {
                                 target: "_blank",
                                 rel: "noreferrer",
-                                href: "https://www.pinterest.com/",
+                                href: "https://www.linkedin.com/in/samueluy/",
                                 children: /*#__PURE__*/ jsx_runtime_.jsx("span", {
                                     className: "icon fab fa-linkedin"
                                 })
@@ -422,7 +422,23 @@ const Footer = ()=>{
                             /*#__PURE__*/ jsx_runtime_.jsx("a", {
                                 target: "_blank",
                                 rel: "noreferrer",
-                                href: "https://www.instagram.com/",
+                                href: "https://www.tiktok.com/@samueluyyt/",
+                                children: /*#__PURE__*/ jsx_runtime_.jsx("span", {
+                                    className: "icon fab fa-tiktok"
+                                })
+                            }),
+                            /*#__PURE__*/ jsx_runtime_.jsx("a", {
+                                target: "_blank",
+                                rel: "noreferrer",
+                                href: "https://www.facebook.com/samuyyt/",
+                                children: /*#__PURE__*/ jsx_runtime_.jsx("span", {
+                                    className: "icon fab fa-facebook"
+                                })
+                            }),
+                            /*#__PURE__*/ jsx_runtime_.jsx("a", {
+                                target: "_blank",
+                                rel: "noreferrer",
+                                href: "https://www.instagram.com/samueluyyt/",
                                 children: /*#__PURE__*/ jsx_runtime_.jsx("span", {
                                     className: "icon fab fa-instagram"
                                 })
@@ -430,17 +446,9 @@ const Footer = ()=>{
                             /*#__PURE__*/ jsx_runtime_.jsx("a", {
                                 target: "_blank",
                                 rel: "noreferrer",
-                                href: "https://dribbble.com/",
+                                href: "https://www.youtube.com/samueluy",
                                 children: /*#__PURE__*/ jsx_runtime_.jsx("span", {
-                                    className: "icon fab fa-dribbble"
-                                })
-                            }),
-                            /*#__PURE__*/ jsx_runtime_.jsx("a", {
-                                target: "_blank",
-                                rel: "noreferrer",
-                                href: "https://www.pinterest.com/",
-                                children: /*#__PURE__*/ jsx_runtime_.jsx("span", {
-                                    className: "icon fab fa-linkedin"
+                                    className: "icon fab fa-youtube"
                                 })
                             })
                         ]
