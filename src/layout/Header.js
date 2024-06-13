@@ -27,34 +27,6 @@ const Menu = () => (
               </Link>
             </li>
             <li className="menu-item menu-item-has-children">
-                <a>
-                  <span className="mask-lnk">Resume</span>
-                  <span className="mask-lnk mask-lnk-hover">Resume</span>
-                </a>
-              <ul className="sub-menu">
-                <li className="menu-item">
-                  <Link href="/resume_tech">
-                    <a>
-                      <span className="mask-lnk">Technology</span>
-                      <span className="mask-lnk mask-lnk-hover">
-                      Technology
-                      </span>
-                    </a>
-                  </Link>
-                </li>
-                <li className="menu-item">
-                  <Link href="/resume_cc">
-                    <a>
-                      <span className="mask-lnk">Content Creation</span>
-                      <span className="mask-lnk mask-lnk-hover">
-                      Content Creation
-                      </span>
-                    </a>
-                  </Link>
-                </li>
-              </ul>
-            </li>
-            <li className="menu-item menu-item-has-children">
               <Link href="/contacts">
                 <a>
                   <span>Contact</span>
