@@ -534,46 +534,26 @@ const Menu = ()=>/*#__PURE__*/ (0,jsx_runtime_.jsxs)(external_react_.Fragment, {
                                                 })
                                             ]
                                         }),
-                                        /*#__PURE__*/ (0,jsx_runtime_.jsxs)("ul", {
+                                        /*#__PURE__*/ jsx_runtime_.jsx("ul", {
                                             className: "sub-menu",
-                                            children: [
-                                                /*#__PURE__*/ jsx_runtime_.jsx("li", {
-                                                    className: "menu-item",
-                                                    children: /*#__PURE__*/ jsx_runtime_.jsx((link_default()), {
-                                                        href: "/resume_tech",
-                                                        children: /*#__PURE__*/ (0,jsx_runtime_.jsxs)("a", {
-                                                            children: [
-                                                                /*#__PURE__*/ jsx_runtime_.jsx("span", {
-                                                                    className: "mask-lnk",
-                                                                    children: "Technology"
-                                                                }),
-                                                                /*#__PURE__*/ jsx_runtime_.jsx("span", {
-                                                                    className: "mask-lnk mask-lnk-hover",
-                                                                    children: "Technology"
-                                                                })
-                                                            ]
-                                                        })
-                                                    })
-                                                }),
-                                                /*#__PURE__*/ jsx_runtime_.jsx("li", {
-                                                    className: "menu-item",
-                                                    children: /*#__PURE__*/ jsx_runtime_.jsx((link_default()), {
-                                                        href: "/resume_cc",
-                                                        children: /*#__PURE__*/ (0,jsx_runtime_.jsxs)("a", {
-                                                            children: [
-                                                                /*#__PURE__*/ jsx_runtime_.jsx("span", {
-                                                                    className: "mask-lnk",
-                                                                    children: "Content Creation"
-                                                                }),
-                                                                /*#__PURE__*/ jsx_runtime_.jsx("span", {
-                                                                    className: "mask-lnk mask-lnk-hover",
-                                                                    children: "Content Creation"
-                                                                })
-                                                            ]
-                                                        })
+                                            children: /*#__PURE__*/ jsx_runtime_.jsx("li", {
+                                                className: "menu-item",
+                                                children: /*#__PURE__*/ jsx_runtime_.jsx((link_default()), {
+                                                    href: "/resume_tech",
+                                                    children: /*#__PURE__*/ (0,jsx_runtime_.jsxs)("a", {
+                                                        children: [
+                                                            /*#__PURE__*/ jsx_runtime_.jsx("span", {
+                                                                className: "mask-lnk",
+                                                                children: "Technology"
+                                                            }),
+                                                            /*#__PURE__*/ jsx_runtime_.jsx("span", {
+                                                                className: "mask-lnk mask-lnk-hover",
+                                                                children: "Technology"
+                                                            })
+                                                        ]
                                                     })
                                                 })
-                                            ]
+                                            })
                                         })
                                     ]
                                 }),
