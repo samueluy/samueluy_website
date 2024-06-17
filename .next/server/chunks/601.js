@@ -38,7 +38,7 @@ const Clients = ()=>{
                                     children: /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("a", {
                                         target: "_blank",
                                         rel: "noreferrer",
-                                        href: "#",
+                                        href: "https://www.tiktok.com/@samueluyyt/video/7369148191180098821",
                                         children: /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("img", {
                                             src: "images/client1.png",
                                             alt: ""
@@ -53,7 +53,7 @@ const Clients = ()=>{
                                     children: /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("a", {
                                         target: "_blank",
                                         rel: "noreferrer",
-                                        href: "#",
+                                        href: "https://www.tiktok.com/@samueluyyt/video/7247853510807538949",
                                         children: /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("img", {
                                             src: "images/client3.png",
                                             alt: ""
@@ -68,7 +68,7 @@ const Clients = ()=>{
                                     children: /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("a", {
                                         target: "_blank",
                                         rel: "noreferrer",
-                                        href: "#",
+                                        href: "https://www.tiktok.com/@samueluyyt/video/7268625967021575429",
                                         children: /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("img", {
                                             src: "images/client2.png",
                                             alt: ""
@@ -83,7 +83,7 @@ const Clients = ()=>{
                                     children: /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("a", {
                                         target: "_blank",
                                         rel: "noreferrer",
-                                        href: "#",
+                                        href: "https://www.tiktok.com/@samueluyyt/video/7310184464095661318",
                                         children: /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("img", {
                                             src: "images/client4.png",
                                             alt: ""

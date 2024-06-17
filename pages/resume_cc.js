@@ -25,7 +25,7 @@ const ResumeImage = () => {
       {/* Section Interests */}
       <Interests />
       {/* Section Testimonials */}
-      <Testimonials />
+      {/*<Testimonials />*/}
       {/* Section Clients */}
       <Clients />
     </Layout>
