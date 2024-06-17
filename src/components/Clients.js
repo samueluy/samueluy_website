@@ -11,28 +11,28 @@ const Clients = () => {
           <div className="clients-items">
             <div className="clients-col">
               <div className="clients-item">
-                <a target="_blank" rel="noreferrer" href="#">
+                <a target="_blank" rel="noreferrer" href="https://www.tiktok.com/@samueluyyt/video/7369148191180098821">
                   <img src="images/client1.png" alt="" />
                 </a>
               </div>
             </div>
             <div className="clients-col">
               <div className="clients-item">
-                <a target="_blank" rel="noreferrer" href="#">
+                <a target="_blank" rel="noreferrer" href="https://www.tiktok.com/@samueluyyt/video/7247853510807538949">
                   <img src="images/client3.png" alt="" />
                 </a>
               </div>
             </div>
             <div className="clients-col">
               <div className="clients-item">
-                <a target="_blank" rel="noreferrer" href="#">
+                <a target="_blank" rel="noreferrer" href="https://www.tiktok.com/@samueluyyt/video/7268625967021575429">
                   <img src="images/client2.png" alt="" />
                 </a>
               </div>
             </div>
             <div className="clients-col">
               <div className="clients-item">
-                <a target="_blank" rel="noreferrer" href="#">
+                <a target="_blank" rel="noreferrer" href="https://www.tiktok.com/@samueluyyt/video/7310184464095661318">
                   <img src="images/client4.png" alt="" />
                 </a>
               </div>

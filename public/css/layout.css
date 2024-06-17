@@ -2627,6 +2627,7 @@
   display: inline-block;
   vertical-align: top;
   width: 25%;
+  border-radius: 15px;
 }
 
 .clients-item {
@@ -2650,6 +2651,7 @@
 .clients-item img {
   max-width: 100%;
   max-height: 100px;
+  border-radius: 15px;
 }
 
 .clients-item:hover {
@@ -2665,6 +2667,7 @@
   .clients-items .clients-col {
     padding: 20px 20px 0 20px;
     width: 50%;
+    border-radius: 15px;
   }
 }
 
