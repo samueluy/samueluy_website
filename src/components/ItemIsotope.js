@@ -200,7 +200,7 @@ const ItemIsotope = () => {
         <div className="box-item f-video">
           <div className="image">
             <a
-              href="https://www.youtube.com/embed/S4L8T2kFFck"
+              href="https://www.youtube.com/watch?v=Dgq56_yd7Ug"
               className="has-popup-video hover-animated"
             >
               <img src="images/work2.jpg" className="wp-post-image" alt="" />
@@ -210,7 +210,7 @@ const ItemIsotope = () => {
                     <span className="icon fas fa-video" />
                     <span className="desc">
                       <span className="category">Video</span>
-                      <span className="name">Fertility of Some Plants</span>
+                      <span className="name">How I Became a Millionaire at 20 Years Old in the Philippines</span>
                     </span>
                   </span>
                 </span>

@@ -2,7 +2,6 @@ import { Fragment, useEffect } from "react";
 import ContentModal from "../components/popup/ContentModal";
 import ImageGallery from "../components/popup/ImageGallery";
 import ImageView from "../components/popup/ImageView";
-import VideoPopup from "../components/popup/VideoPopup";
 import { cursor, stickyNav } from "../utils";
 import Footer from "./Footer";
 import Header from "./Header";
@@ -17,7 +16,6 @@ const Layout = ({ children, noHeader }) => {
 
   return (
     <Fragment>
-      <VideoPopup />
       <ImageView />
       <ImageGallery />
       <ContentModal />

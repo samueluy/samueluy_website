@@ -5,8 +5,8 @@
   "devFiles": [],
   "ampDevFiles": [],
   "lowPriorityFiles": [
-    "static/W2hRdPEc0jmIBMWXoIWzi/_buildManifest.js",
-    "static/W2hRdPEc0jmIBMWXoIWzi/_ssgManifest.js"
+    "static/XgMcLVxQ9gs9tG5SPl6DF/_buildManifest.js",
+    "static/XgMcLVxQ9gs9tG5SPl6DF/_ssgManifest.js"
   ],
   "rootMainFiles": [],
   "pages": {
@@ -15,8 +15,8 @@
       "static/chunks/framework-09a2284fdc01dc36.js",
       "static/chunks/main-5f48c9e4f19a0c1b.js",
       "static/chunks/616-b8082428c761f724.js",
-      "static/chunks/423-6b99e9ee09b422fe.js",
-      "static/chunks/pages/index-8f35de32ba74c670.js"
+      "static/chunks/666-52c1b58817247850.js",
+      "static/chunks/pages/index-ed2dc29faeb6e4f8.js"
     ],
     "/_app": [
       "static/chunks/webpack-82d7cd4553e3b866.js",
@@ -37,8 +37,8 @@
       "static/chunks/main-5f48c9e4f19a0c1b.js",
       "static/chunks/616-b8082428c761f724.js",
       "static/chunks/14-97566af611ed2a5b.js",
-      "static/chunks/423-6b99e9ee09b422fe.js",
-      "static/chunks/pages/contacts-14e989f7f3e64fe5.js"
+      "static/chunks/666-52c1b58817247850.js",
+      "static/chunks/pages/contacts-20a5dfe135e96a19.js"
     ],
     "/resume_cc": [
       "static/chunks/webpack-82d7cd4553e3b866.js",
@@ -47,9 +47,9 @@
       "static/chunks/616-b8082428c761f724.js",
       "static/chunks/14-97566af611ed2a5b.js",
       "static/chunks/719-e0e812cca861dac2.js",
-      "static/chunks/423-6b99e9ee09b422fe.js",
+      "static/chunks/666-52c1b58817247850.js",
       "static/chunks/683-4d2e15b7f1c6a6ab.js",
-      "static/chunks/pages/resume_cc-9c67346cdfb09fcf.js"
+      "static/chunks/pages/resume_cc-b37ec2454079f774.js"
     ],
     "/resume_tech": [
       "static/chunks/webpack-82d7cd4553e3b866.js",
@@ -58,9 +58,9 @@
       "static/chunks/616-b8082428c761f724.js",
       "static/chunks/14-97566af611ed2a5b.js",
       "static/chunks/719-e0e812cca861dac2.js",
-      "static/chunks/423-6b99e9ee09b422fe.js",
+      "static/chunks/666-52c1b58817247850.js",
       "static/chunks/683-4d2e15b7f1c6a6ab.js",
-      "static/chunks/pages/resume_tech-67265d2292a23b37.js"
+      "static/chunks/pages/resume_tech-a560a432c546166d.js"
     ]
   },
   "ampFirstPages": []
