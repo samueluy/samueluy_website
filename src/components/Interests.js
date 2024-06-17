@@ -11,44 +11,44 @@ const Interests = () => {
           <div className="service-col">
             <div className="service-item content-box">
               <div className="icon">
-                <span className="fas fa-baseball-ball" />
+                <span className="fas fa-poo" />
               </div>
-              <div className="name">Basketball</div>
+              <div className="name">Lifestyle</div>
               <div className="text">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                From wild days to lazy weekends, the simplest things in life are worth sharing!
               </div>
             </div>
           </div>
           <div className="service-col">
             <div className="service-item content-box">
               <div className="icon">
-                <span className="fas fa-campground" />
+                <span className="fas fa-computer" />
               </div>
-              <div className="name">Camping</div>
+              <div className="name">Technology</div>
               <div className="text">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                Computer Science, Programming, and the latest tech trends and issues are my jam!
               </div>
             </div>
           </div>
           <div className="service-col">
             <div className="service-item content-box">
               <div className="icon">
-                <span className="fas fa-chess-knight" />
+                <span className="fas fa-plane" />
               </div>
-              <div className="name">Chess</div>
+              <div className="name">Travel</div>
               <div className="text">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                Send me wherever! Certified "<i>kaladkarin</i>" and always ready for an adventure!
               </div>
             </div>
           </div>
           <div className="service-col">
             <div className="service-item content-box">
               <div className="icon">
-                <span className="fas fa-headphones" />
+                <span className="fas fa-box" />
               </div>
-              <div className="name">Music</div>
+              <div className="name">Unboxing</div>
               <div className="text">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                Unboxing and reviewing the latest gadgets and tech is my guilty pleasure!
               </div>
             </div>
           </div>

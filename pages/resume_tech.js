@@ -1,4 +1,4 @@
-import About from "../src/components/About";
+import About_tech from "../src/components/About_tech";
 import Clients from "../src/components/Clients";
 import CustomText from "../src/components/CustomText";
 import Interests from "../src/components/Interests";
@@ -8,7 +8,7 @@ import ResumeSection from "../src/components/ResumeSection";
 import Service from "../src/components/Service";
 import {
   CodingSkills,
-  DesignSkills,
+  VideoGenres,
   KnowledgeSkills,
   LanguagesSkills,
 } from "../src/components/Skills";
@@ -24,7 +24,7 @@ const ResumeCreative = () => {
       {/* Section Started */}
       <CreativePageBanner pageName={"Resume"} typingData={typingAnimation} />
       {/* Section About */}
-      <About />
+      <About_tech />
       {/* Section Service */}
       <Service />
       {/* Section Resume */}

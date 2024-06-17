@@ -1,46 +1,46 @@
 import { useEffect } from "react";
 import { createSkillsDot, dotResize } from "../utils";
 
-export const DesignSkills = () => {
+export const VideoGenres = () => {
   return (
     <div className="section skills" id="section-skills">
       <div className="content">
         {/* title */}
         <div className="title">
-          <div className="title_inner">Design Skills</div>
+          <div className="title_inner">Genres</div>
         </div>
         {/* skills items */}
         <div className="skills percent content-box">
           <ul>
             <li>
-              <div className="name">Web Design</div>
+              <div className="name">Vlogs</div>
               <div className="progress ">
-                <div className="percentage" style={{ width: "90%" }}>
-                  <span className="percent">90%</span>
+                <div className="percentage" style={{ width: "100%" }}>
+                  <span className="percent">45%</span>
                 </div>
               </div>
             </li>
             <li>
-              <div className="name">Illustrations</div>
+              <div className="name">Informative</div>
               <div className="progress ">
-                <div className="percentage" style={{ width: "70%" }}>
-                  <span className="percent">70%</span>
+                <div className="percentage" style={{ width: "67%" }}>
+                  <span className="percent">30%</span>
                 </div>
               </div>
             </li>
             <li>
-              <div className="name">Photoshop</div>
+              <div className="name">Unboxing</div>
               <div className="progress ">
-                <div className="percentage" style={{ width: "95%" }}>
-                  <span className="percent">95%</span>
+                <div className="percentage" style={{ width: "22%" }}>
+                  <span className="percent">10%</span>
                 </div>
               </div>
             </li>
             <li>
-              <div className="name">Graphic Design</div>
+              <div className="name">Commercial</div>
               <div className="progress ">
-                <div className="percentage" style={{ width: "85%" }}>
-                  <span className="percent">85%</span>
+                <div className="percentage" style={{ width: "33%" }}>
+                  <span className="percent">15%</span>
                 </div>
               </div>
             </li>
@@ -75,26 +75,10 @@ export const LanguagesSkills = () => {
               </div>
             </li>
             <li>
-              <div className="name">German</div>
+              <div className="name">Filipino</div>
               <div className="progress">
-                <div className="percentage" style={{ width: "70%" }}>
-                  <span className="percent">70%</span>
-                </div>
-              </div>
-            </li>
-            <li>
-              <div className="name">Italian</div>
-              <div className="progress">
-                <div className="percentage" style={{ width: "55%" }}>
-                  <span className="percent">55%</span>
-                </div>
-              </div>
-            </li>
-            <li>
-              <div className="name">French</div>
-              <div className="progress">
-                <div className="percentage" style={{ width: "85%" }}>
-                  <span className="percent">85%</span>
+                <div className="percentage" style={{ width: "95%" }}>
+                  <span className="percent">95%</span>
                 </div>
               </div>
             </li>
@@ -118,13 +102,13 @@ export const CodingSkills = () => {
           <ul>
             <li>
               <div className="name">Python</div>
-              <div className="progress p90">
+              <div className="progress p95">
                 {" "}
                 {/* p90 = 90% circle fill color */}
                 <div className="percentage">
-                  <span className="percent">90%</span>
+                  <span className="percent">95%</span>
                 </div>
-                <span>90%</span>
+                <span>95%</span>
                 <div className="slice">
                   <div className="bar"></div>
                   <div className="fill"></div>
@@ -133,13 +117,13 @@ export const CodingSkills = () => {
             </li>
             <li>
               <div className="name">SQL</div>
-              <div className="progress p75">
+              <div className="progress p90">
                 {" "}
                 {/* p75 = 75% circle fill color */}
                 <div className="percentage">
-                  <span className="percent">75%</span>
+                  <span className="percent">90%</span>
                 </div>
-                <span>75%</span>
+                <span>90%</span>
                 <div className="slice">
                   <div className="bar"></div>
                   <div className="fill"></div>
@@ -163,13 +147,13 @@ export const CodingSkills = () => {
             </li>
             <li>
               <div className="name">Java</div>
-              <div className="progress p95">
+              <div className="progress p85">
                 {" "}
                 {/* p95 = 95% circle fill color */}
                 <div className="percentage">
-                  <span className="percent">95%</span>
+                  <span className="percent">85%</span>
                 </div>
-                <span>95%</span>
+                <span>85%</span>
                 <div className="slice">
                   <div className="bar"></div>
                   <div className="fill"></div>
