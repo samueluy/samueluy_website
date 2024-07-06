@@ -23,6 +23,9 @@ const Footer = () => {
           <a target="_blank" rel="noreferrer" href="https://www.youtube.com/samueluy">
             <span className="icon fab fa-youtube" />
           </a>
+          <a target="_blank" rel="noreferrer" href="https://github.com/samueluy">
+            <span className="icon fab fa-github" />
+          </a>
         </div>
       </div>
       <div className="clear" />

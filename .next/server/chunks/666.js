@@ -368,6 +368,14 @@ const Footer = ()=>{
                                 children: /*#__PURE__*/ jsx_runtime_.jsx("span", {
                                     className: "icon fab fa-youtube"
                                 })
+                            }),
+                            /*#__PURE__*/ jsx_runtime_.jsx("a", {
+                                target: "_blank",
+                                rel: "noreferrer",
+                                href: "https://github.com/samueluy",
+                                children: /*#__PURE__*/ jsx_runtime_.jsx("span", {
+                                    className: "icon fab fa-github"
+                                })
                             })
                         ]
                     })
