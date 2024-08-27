@@ -35,9 +35,9 @@ const Menu = () => (
                 <li className="menu-item">
                   <Link href="/resume_tech">
                     <a>
-                      <span className="mask-lnk">Technology</span>
+                      <span className="mask-lnk">Data Engineering</span>
                       <span className="mask-lnk mask-lnk-hover">
-                      Technology
+                      Data Engineering
                       </span>
                     </a>
                   </Link>
