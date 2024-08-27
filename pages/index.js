@@ -15,10 +15,6 @@ const IndexPersonal = () => {
         <div className="centrize full-width">
           <div className="vertical-center">
             <div className="started-content">
-              <div
-                className="logo"
-                style={{ backgroundImage: "url(images/linkedin_pic.png)" }}
-              />
               <h1 className="h-title">
                 Hello, I’m <strong>Samuel Uy</strong>, Data Engineer and{" "}
                 <br />
